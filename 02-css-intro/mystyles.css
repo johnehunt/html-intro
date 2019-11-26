@@ -1,0 +1,12 @@
+body {
+  background-color: powderblue;
+}
+.error {
+  color: red;
+  font-style: italic;
+}
+.warn {
+  background: white;
+  color: red;
+  font-size: larger;
+}

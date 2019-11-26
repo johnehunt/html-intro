@@ -1,0 +1,22 @@
+p {
+  border: 1px solid blue;
+  padding: 30px;
+}
+p.error {
+  color: red;
+}
+h1 {
+  color: green;
+  font-family: verdana;
+  font-size: 300%;
+}
+tr:nth-child(even) {
+  background: white;
+}
+tr:nth-child(odd) {
+  background: rgb(80, 78, 78);
+}
+input[type="text"] {
+  border: 2px solid red;
+  border-radius: 4px;
+}
