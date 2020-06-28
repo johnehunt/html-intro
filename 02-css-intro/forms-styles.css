@@ -2,6 +2,7 @@ p {
   border: 1px solid blue;
   padding: 30px;
 }
+/* <p class="error">Thsi is a warning </p>*/
 p.error {
   color: red;
 }
